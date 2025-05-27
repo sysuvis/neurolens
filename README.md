@@ -8,9 +8,9 @@
 - Pytorch Lightning
 
 ## Contains
--rag: Retrieve Augmentation Generation Examples.
--nn: Neural Networks for Representation.
--ui: The Implementation of System Interface.
+-rag: Retrieve Augmentation Generation Examples.\\
+-nn: Neural Networks for Representation.\\
+-ui: The Implementation of System Interface.\\
 
 - inference
 ```
